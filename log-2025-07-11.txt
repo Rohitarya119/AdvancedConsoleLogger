@@ -1,0 +1,13 @@
+[2025-07-11 18:33:22] [INFO] Application started
+[2025-07-11 18:33:22] [INFO] 
+[2025-07-11 18:33:22] [WARN] Low memory
+[2025-07-11 18:33:22] [INFO] 
+[2025-07-11 18:33:22] [ERROR] Something went wrong
+[2025-07-11 18:33:22] [INFO] 
+[2025-07-11 18:33:22] [INFO] exit (to stop)
+[2025-07-11 18:33:22] [INFO] 
+[2025-07-11 18:33:28] [INFO] 
+[2025-07-11 18:34:33] [INFO] cd path/to/AdvancedConsoleLogger
+[2025-07-11 18:34:33] [INFO] git init
+[2025-07-11 18:34:43] [INFO] 
+[2025-07-11 18:34:44] [INFO] 
